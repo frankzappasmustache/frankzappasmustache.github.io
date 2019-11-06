@@ -1,4 +1,119 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+---
+- name: Safer Schools Together
+  descr: |
+      Maintained website; including the following
+       ◆ All updates (WP-Admin and Hosting Provider), automations
+         (PipeDrive, Zapier, Gravity Forms, Paypal), server configs,
+         databases, staging copies, version control systems
+         (git setup and maintenance), email configs
+         (Siteground/GSuite domain forwarding and migration)
+
+
+      Acted as primary GSuite Administrator in charge of the following
+       ◆ Creating new user accounts, deactivating or removing user
+         accounts, setting up various features and aspects within
+         G-Suite (vault, groups, permission levels, etc.)
+
+
+      Opensource Intelligence and Threat Analysis
+       ◆ Compiled monthly Opensource Intelligence reports for
+         school districts in Canada and the United States detailing
+         any worrisome online behaviour observed in the student body
+         or community at large
+
+       ◆ Investigated and compiled incident reports as requested
+         by client schools
+
+       ◆ Profiled major incidents and threat actors involved
+
+       ◆ Worked on special sociogram projects to map and detail
+         gang activity in British Columbia (GRIP | Gang Reduction
+         through Informed Practice – In conjunction with RCMP IHIT
+         (Royal Canadian Mounted Police Integrated Homicide Investigation Team)
+  image: "/img/sst_logo.png"
+  github: https://frankzappasmustache.github.io/.well-known/frankzappasmustache
+  website: https://www.saferschoolstogether.com
+
+- name: State of Washington DOL
+  descr: |
+      ◆ Providing first class customer service to the public with enthusiasm and
+        a smile
+
+      ◆ Verifying and evaluating information to issue licenses and ID cards,
+        instruction permits including any other licensing functions in
+        compliance with laws, regulations, and procedures
+
+      ◆ Collecting and accounting for licensing fees
+
+      ◆ Assessing customer qualifications (physical, medical and visual) for
+        licensing eligibility
+
+      ◆ Authenticating identity documents through online verification
+
+      ◆ Conducting face-to-face interview with applicants to validate their
+        identification
+
+      ◆ Denoting U.S. citizenship of applicants
+  image: /img/State_of_WA_seal.png
+  github: https://frankzappasmustache.github.io/.well-known/frankzappasmustache
+  website: https://dol.wa.gov
+
+- name: OpenTable
+  descr: |
+      Install/Post-install Coordinator and integration coordinator for
+      various point of sale software developers/card processors
+        Oracle (Micros) | Heartland | Digital Dining | Vantiv
+        Stored Value Solutions | Aloha/NCR | The Customer Connection | Synergy
+        SwipeIt | Chase | GiveX | Valutec | Paytronix | Opticard
+
+
+      Troubleshoot processor model code-base, third-party provider errors,
+      and remote server endpoints
+       ◆ Communicate with third-party developers to establish understanding of
+         recent API modifications
+       ◆ Collaborate with IT contractors on ISP cut-overs, port forwarding
+         schema, NAT, firewall rules, etc.
+       ◆ Compile and interpret debug output and rails stack trace output for
+         coherent issue reporting
+
+      Daily tools used
+       ◆ SalesForce to install/maintain contracts and develop reports
+       ◆ Jira for issue reporting, issue tracking, and work flow visualization
+       ◆ Linux
+       ◆ VMWare
+       ◆ Various VNC/RDP clients
+       ◆ Various Version Control Systems
+
+      Work with merchants to cultivate their consumer facing presence
+       ◆ Communicate content guidelines
+       ◆ Make suggestions based in best practice
+       ◆ Collect photo, design, and descriptive content from merchants
+       ◆ Utilize Gimp, Photoshop, Inkscape, and various other programs to edit
+         and publish consumer facing content
+       ◆ Approve replacement content for live publishing
+
+      ☛ Summarize+escalate back-end and client-side UI bugs to engineering and
+        product management
+
+      ☛ Triage escalations to OpenTable Restaurant Development Group in
+        coordination with Inside Sales and Regional/National Restaurant
+        Development Managers
+
+      ☛ Serve as point of escalation for Tier II Gifts support team
+
+      ☛ Maintain inventory for thousands of locations to ensure sufficiency and
+        data quality
+
+      ☛ Train and assist consumer facing OpenTable Gifts agents
+
+      ☛ Create and maintain process documentation
+  image: /img/opentable_logo.png
+  github: https://frankzappasmustache.github.io/.well-known/frankzappasmustache
+  website: https://www.opentable.com
+
+- name: Electric Lantern Festival
+  descr:
+  image: /img/electric_lantern.jpg
+  github:
+  website: "https://www.facebook.com/events/alternative-library/electric-lanter\
+n-festival/2302616659761894/"
