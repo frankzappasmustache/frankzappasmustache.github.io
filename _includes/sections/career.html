@@ -3,7 +3,15 @@
 <div class="archive">
   <div class="timeline" id="timeline">
     {% for career in site.data.index.careers %}
-          <div class="archive-title"><div class="archive-year"><strong>{{ career.date }}</strong> {{ career.job }} @ <a href="{{ career.link }}">{{ career.name }}</a></div></div>
+          <div class="archive-title">
+          	<div class="archive-year">
+          		<strong>{{ career.date }}</strong>
+          		<br>
+          			<img src="{{ career.image | relative_url }} " style="float:left;padding:5px;height:40px;width:40px;margin-right:5px;" alt="{{ career.name }}"></img>
+          			{{ career.job }} @ <a href="{{ career.link }}">{{ career.name }}</a>
+          		<pre>{{ career.descr }}</pre>
+          	</div>
+          </div>
     {% endfor %}
   </div>
 </div>

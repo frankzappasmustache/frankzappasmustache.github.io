@@ -1,12 +1,13 @@
+---
 - name: City Colleges of Chicago
   link: https://www.ccc.edu
   date: 2014 - 2014
-  descr: Associate of Applied Science - Computer Information Systems - Unfinished
+  descr: Associate of Applied Science - Information Systems - Unfinished
 
 - name: Moody Bible Institute
   link: https://www.moody.edu
   date: 2006 - 2007
-  descr: Bachelor of Arts - Historical Theology and Greek - Unfinished
+  descr: Bachelor of Arts (Double) - Historical Theology and Greek - Unfinished
 
 - name: Danville Area Community College
   link: https://www.dacc.edu

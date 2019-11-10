@@ -4,11 +4,11 @@
 ####################################
 #
 ---
-title: frankzappasmustache
+title: Dustin McClure | Portfolio
 email: frankzappasmustache@protonmail.com
 description: Dustin McClure's Website and Portfolio
-url: https://frankzappasmustache.gitlab.io
-keywords: ["portfolio", "blog", "CV", "jekyll"]
+url: https://frankzappasmustache.github.io/portfolio
+keywords: ["portfolio", "blog", "CV", "jekyll", "developer", "code", "back-end developer", "web developer"]
 
 #
 ###################################
@@ -37,8 +37,9 @@ owner:
   name: frankzappasmustache
   avatar: frankzappasmustache-logo.jpg
   job: "Support Engineer"
-  bio: "Support Engineer and Certified Nerd"
+  bio: "Welcome to my portfolio<br />I am a Nerd, tinkerer, and idealist"
   email: frankzappasmustache@protonmail.com
+  forhire: true
   disqus-shortname:  # username
   twitter:  # username
   facebook:  # username
