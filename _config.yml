@@ -7,8 +7,17 @@
 title: Dustin McClure | Portfolio
 email: frankzappasmustache@protonmail.com
 description: Dustin McClure's Website and Portfolio
-url: https://frankzappasmustache.github.io/portfolio
-keywords: ["portfolio", "blog", "CV", "jekyll", "developer", "code", "back-end developer", "web developer"]
+url: https://frankzappasmustache.github.io/
+keywords: [
+  "portfolio",
+  "blog",
+  "CV",
+  "jekyll",
+  "developer",
+  "code",
+  "back-end developer",
+  "web developer"
+]
 
 #
 ###################################
