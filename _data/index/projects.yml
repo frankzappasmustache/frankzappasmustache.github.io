@@ -17,3 +17,9 @@ n-festival/2302616659761894/"
   image: /img/opentable_logo.png
   github: https://frankzappasmustache.github.io/.well-known/frankzappasmustache
   website: https://www.opentable.com
+
+- name: iOT Raspberry Pi Cat Feeder
+  desc:
+  image: /img/cat_feeder.jpeg
+  github:
+  website: https://frankzappasmustache.github.io/img/cat_feeder_fritzing.png
