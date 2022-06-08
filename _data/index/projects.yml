@@ -2,20 +2,25 @@
 - name: Java Calendar
   descr: Developed a program in Java that prints out an ASCII calendar to console based on user input.
   github: https://github.com/frankzappasmustache/CS140_JAVA/tree/main/assignments/week8/assignment_3
+
 - name: Java Phonebook
   descr: Developed a phonebook in Java that has a node class to define what a contact node looks like and a manager class to manage all nodes.
   the phonebook allows you to add entries, change entries, print the phonebook, and delete entries.
   github: https://github.com/frankzappasmustache/CS145_Java/tree/main/assignments/assignment1/phoneBook
+
 - name: Java Letter Inventory
   descr: A class called LetterInventory that can be used to keep track of an inventory of letters of the alphabet.
   github: https://github.com/frankzappasmustache/CS145_Java/tree/main/Labs/Lab4/letterInventory
+
 - name: Java Card Game
   descr: A Java program that plays a simple game of blackjack.
   github: https://github.com/frankzappasmustache/CS145_Java/tree/main/Labs/Lab3/cardGame
+
 - name: Java Critter Simulator
   descr: A Java program that simulates what happens when 4 different types of critters making different moves
   battle it out for dominance.
   github: https://github.com/frankzappasmustache/CS145_Java/tree/main/Labs/Lab2/critters
+  
 - name: SafeVision
   descr: Began training a machine to recognize possible threats(guns, knives, etc.) in social media posts using Google's Auto-ML and Google Open Images.
   image: "/img/sst_logo.png"
