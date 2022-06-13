@@ -19,6 +19,10 @@
   descr: A Java program that simulates what happens when 4 different types of critters making different moves battle it out for dominance.
   image: "/img/java.png"
   github: https://github.com/frankzappasmustache/CS145_Java/tree/main/Labs/Lab2/critters
+  - name: Java 20 Questions Game
+  descr: A Java program that tries to guess an object you are thinking about by asking questions about the object. It gets progressively smarter as it learns about different objects
+  image: "/img/java.png"
+  github: https://github.com/frankzappasmustache/CS145_Java/tree/main/Labs/Lab6/20questions
 - name: SafeVision
   descr: Began training a machine to recognize possible threats(guns, knives, etc.) in social media posts using Google's Auto-ML and Google Open Images.
   image: "/img/sst_logo.png"
