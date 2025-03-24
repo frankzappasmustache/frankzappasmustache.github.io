@@ -1,61 +1,56 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dustin McClure",
+    "email": "DMcClure5440@student.whatcom.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://frankzappasmustache.github.io",
+    "summary": "BASc Student IT Networking and Cybersecurity",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Bellingham",
       "countryCode": "US",
-      "region": ""
+      "region": "WA"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "LinkedIn",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://www.linkedin.com/in/dustin-mcclure"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "frankzappasmustache",
+        "url": "https://github.com/frankzappasmustache"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Whatcom Community College",
+      "area": "BASc IT Networking and Cybersecurity",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2025",
+      "gpa": 3.5,
+      "courses": []
+    },
+    {
+      "institution": "Whatcom Community College",
+      "area": "AAS-T Cybersecurity",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Whatcom Community College",
+      "area": "Certificate of Proficiency",
+      "studyType": "Cloud Computing, Industrial Control Systems, Mobile and Wireless Technologies, Web Development",
+      "startDate": "2021",
+      "endDate": "",
       "gpa": null,
       "courses": []
     }
